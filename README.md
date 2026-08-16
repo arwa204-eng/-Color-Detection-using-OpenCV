@@ -12,8 +12,30 @@ The program opens the camera and looks for objects with specific colors. When it
 The program detects:
 
 🔵 Blue
+
 🟢 Green
+
 🟡 Yellow
+
 🔴 Red
+
+Steps:
+
+1. Download and install Anaconda.
+
+2. Open Anaconda and go to Environments .
+
+3. Select Not installed search for OpenCV and install the required libraries.
+
+4. Open Visual Studio Code and select the Anaconda environment.
+
+5. Open the Python code from the Files section.
+
+6. Run the code.
+
+7. The camera window will open 📷.
+
+8. Put a colored object in front of the camera. The program will find the object and show its color: Blue, Green, Yellow, or Red.
+
 
 
